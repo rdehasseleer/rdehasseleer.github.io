@@ -1,5 +1,8 @@
-> [!NOTE]
-> Keep this in mind.
+---
 layout: page
-title: "PAGE-TITLE"
+title: "Note test"
 permalink: /test
+---
+
+> 💡 **Note** : Keep this in mind.
+
