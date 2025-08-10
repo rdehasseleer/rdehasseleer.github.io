@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  background: #fdfdfd;
+  color: #333;
+}
+
+h1, h2, h3 {
+  color: #444;
+}
+
+code {
+  background-color: #f5f5f5;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}

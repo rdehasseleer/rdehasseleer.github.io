@@ -3,11 +3,13 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
   </head>
   <body>
     <nav>
-      <a href="/">Accueil</a> | 
-      <a href="/test">Test</a>
+      <a href="/">Home</a> | 
+      <a href="/tags">Tags</a>
     </nav>
     <hr>
     {{ content }}

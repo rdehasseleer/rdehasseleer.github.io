@@ -3,7 +3,7 @@ layout: default
 title: "Accueil"
 ---
 
-<h1>Mes notes techniques</h1>
+<h1>Very (very) technical stuff</h1>
 <ul>
   {% for post in site.posts %}
     <li>
