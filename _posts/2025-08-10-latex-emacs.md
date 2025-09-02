@@ -1,0 +1,14 @@
+i
+
+
+Content of ~/.config/emacs/init.el
+```bash
+(setq TeX-auto-save t)
+(setq TeX-parse-self t)
+(setq-default TeX-master nil)
+```
+
+Shorcut:
+
+* Compile:  C-c C-a
+* Preview image: C-c C-p C-d
